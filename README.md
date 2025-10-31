@@ -89,4 +89,14 @@ Segue alguns insights valiosos extraídos da base de dados de vendas de sorvetes
 • 	Ideal para integrar com previsão meteorológica e criar um modelo preditivo dinâmico.
 
 ## Desafio 2
+Criando um Grupo de Recursos para AI Foundry
+<img width="1251" height="801" alt="image" src="https://github.com/user-attachments/assets/36e74ba6-f9f3-4320-9d90-df4e14da422e" />
+
+Criando um Recurso para AI Foundry
+<img width="1181" height="802" alt="image" src="https://github.com/user-attachments/assets/6d33fdf5-9e0f-420b-903b-57d878cff8af" />
+
+Interface do AI Foundry
+<img width="1632" height="919" alt="image" src="https://github.com/user-attachments/assets/32b00d3e-0220-4545-980d-08a8f309ec93" />
+
+
 
