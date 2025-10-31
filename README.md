@@ -107,4 +107,8 @@ Selecionando Modelo GPT-5-mini
 Deploy
 <img width="1505" height="902" alt="image" src="https://github.com/user-attachments/assets/3c24b381-b249-4945-9f41-fd207e983150" />
 
+Criando Model Embedding-3-large
+<img width="1633" height="910" alt="image" src="https://github.com/user-attachments/assets/573aac6b-630e-4a1c-8207-d0868c172451" />
 
+]Criando um Chat Playgorund de Dados abertos do Governo
+<img width="1365" height="771" alt="image" src="https://github.com/user-attachments/assets/15ee0761-e9fb-49d3-9c7e-420fa9ce7160" />
