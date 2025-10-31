@@ -112,3 +112,6 @@ Criando Model Embedding-3-large
 
 ]Criando um Chat Playgorund de Dados abertos do Governo
 <img width="1365" height="771" alt="image" src="https://github.com/user-attachments/assets/15ee0761-e9fb-49d3-9c7e-420fa9ce7160" />
+
+primeiro chat antes de dar upload dos pdfs
+<img width="1555" height="892" alt="image" src="https://github.com/user-attachments/assets/9b130ef0-2cb5-4a8d-81f2-f1efe8803e2e" />
