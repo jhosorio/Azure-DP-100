@@ -17,3 +17,7 @@ Criando um Data Asset
 
 Submetendo um Automated ML job
 <img width="1655" height="845" alt="image" src="https://github.com/user-attachments/assets/a9e19662-6208-42a7-bd97-e9dd97cebe3b" />
+
+Criando um Design
+<img width="929" height="731" alt="image" src="https://github.com/user-attachments/assets/c75f4068-7b79-4e21-80c8-98ca62e11fe1" />
+
