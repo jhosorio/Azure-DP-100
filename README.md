@@ -30,8 +30,11 @@ Trained Model
 Score Model
 <img width="1421" height="795" alt="image" src="https://github.com/user-attachments/assets/b516e251-6bf0-421d-b8ed-a9e78f858e59" />
 
-
-
 Jobs
 <img width="1652" height="451" alt="image" src="https://github.com/user-attachments/assets/8da2199f-85f0-416c-9f18-2e018951d4ec" />
+
+Model-Child jobs
+<img width="1516" height="860" alt="image" src="https://github.com/user-attachments/assets/b29d0c94-ce01-4c8a-a209-b980d6ea5248" />
+
+
 
