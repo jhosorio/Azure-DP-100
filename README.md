@@ -24,6 +24,14 @@ Criando um Design
 Submetendo o Design
 <img width="1161" height="837" alt="image" src="https://github.com/user-attachments/assets/deaa7ea3-a3d0-4f1b-a4d4-0ad45c4988ff" />
 
+Trained Model
+<img width="1612" height="761" alt="image" src="https://github.com/user-attachments/assets/8293aac7-0880-417d-9926-bc946ce5f73d" />
+
+Score Model
+<img width="1421" height="795" alt="image" src="https://github.com/user-attachments/assets/b516e251-6bf0-421d-b8ed-a9e78f858e59" />
+
+
+
 Jobs
 <img width="1652" height="451" alt="image" src="https://github.com/user-attachments/assets/8da2199f-85f0-416c-9f18-2e018951d4ec" />
 
