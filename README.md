@@ -98,6 +98,11 @@ Criando um Recurso para AI Foundry
 Interface do AI Foundry
 <img width="1592" height="934" alt="image" src="https://github.com/user-attachments/assets/8c647c26-e499-409e-9e04-aeed277f74cb" />
 
+Interface Deploy Model
+<img width="1585" height="873" alt="image" src="https://github.com/user-attachments/assets/27f2cf11-f7f2-4f54-99be-20b973ba8c3b" />
+
+Selecionando Modelo GPT-5-mini
+<img width="1660" height="896" alt="image" src="https://github.com/user-attachments/assets/0341d156-7677-48a7-b761-97aeae4b2698" />
 
 
 
