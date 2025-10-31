@@ -104,5 +104,7 @@ Interface Deploy Model
 Selecionando Modelo GPT-5-mini
 <img width="1660" height="896" alt="image" src="https://github.com/user-attachments/assets/0341d156-7677-48a7-b761-97aeae4b2698" />
 
+Deploy
+<img width="1505" height="902" alt="image" src="https://github.com/user-attachments/assets/3c24b381-b249-4945-9f41-fd207e983150" />
 
 
