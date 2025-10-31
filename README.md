@@ -60,5 +60,31 @@ Jobs
 Model-Child jobs
 <img width="1516" height="860" alt="image" src="https://github.com/user-attachments/assets/b29d0c94-ce01-4c8a-a209-b980d6ea5248" />
 
+Segue alguns insights valiosos extraídos da base de dados de vendas de sorvetes e temperatura entre julho e outubro de 2025:
 
+📈 1. Correlação entre Temperatura e Vendas
+• 	Existe uma forte correlação positiva entre temperatura e vendas: dias mais quentes tendem a ter mais vendas.
+• 	A correlação linear entre as variáveis é aproximadamente 0.92, o que indica uma relação direta e significativa.
+
+🔥 2. Faixas de Temperatura com Maior Venda
+• 	As maiores vendas ocorrem em dias com temperaturas acima de 29°C.
+• 	Exemplos:
+• 	05/07 (30.2°C): 421 vendas
+• 	10/07 (31.1°C): 390 vendas
+• 	25/07 (31.0°C): 412 vendas
+
+❄️ 3. Baixas Temperaturas, Baixas Vendas
+• 	Dias com temperaturas abaixo de 23°C apresentam vendas significativamente menores.
+• 	Exemplos:
+• 	01/08 (22.8°C): 123 vendas
+• 	08/09 (20.5°C): 123 vendas
+• 	27/09 (19.4°C): 123 vendas
+
+📅 4. Padrão de Vendas
+• 	Os dias com vendas iguais a 123 unidades ocorrem com frequência em temperaturas muito baixas — pode indicar um limite mínimo de demanda.
+• 	Os valores de vendas 412 unidades aparecem várias vezes em dias quentes — pode indicar um limite máximo de capacidade ou estoque.
+
+🧠 5. Oportunidade de Otimização
+• 	Com base na temperatura prevista, é possível ajustar produção e estoque para evitar perdas ou falta de produto.
+• 	Ideal para integrar com previsão meteorológica e criar um modelo preditivo dinâmico.
 
