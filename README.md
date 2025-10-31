@@ -15,4 +15,5 @@ Criando um Cluster
 Criando um Data Asset
 <img width="1445" height="866" alt="image" src="https://github.com/user-attachments/assets/ccb6d169-fe4f-45d6-bd83-beba79939c48" />
 
-
+Submetendo um Automated ML job
+<img width="1655" height="845" alt="image" src="https://github.com/user-attachments/assets/a9e19662-6208-42a7-bd97-e9dd97cebe3b" />
