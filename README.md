@@ -21,3 +21,7 @@ Submetendo um Automated ML job
 Criando um Design
 <img width="929" height="731" alt="image" src="https://github.com/user-attachments/assets/c75f4068-7b79-4e21-80c8-98ca62e11fe1" />
 
+Submetendo o Design
+<img width="1161" height="837" alt="image" src="https://github.com/user-attachments/assets/deaa7ea3-a3d0-4f1b-a4d4-0ad45c4988ff" />
+
+
