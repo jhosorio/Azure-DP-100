@@ -88,3 +88,5 @@ Segue alguns insights valiosos extraídos da base de dados de vendas de sorvetes
 • 	Com base na temperatura prevista, é possível ajustar produção e estoque para evitar perdas ou falta de produto.
 • 	Ideal para integrar com previsão meteorológica e criar um modelo preditivo dinâmico.
 
+## Desafio 2
+
