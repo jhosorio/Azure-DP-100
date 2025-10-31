@@ -96,7 +96,8 @@ Criando um Recurso para AI Foundry
 <img width="1181" height="802" alt="image" src="https://github.com/user-attachments/assets/6d33fdf5-9e0f-420b-903b-57d878cff8af" />
 
 Interface do AI Foundry
-<img width="1632" height="919" alt="image" src="https://github.com/user-attachments/assets/32b00d3e-0220-4545-980d-08a8f309ec93" />
+<img width="1592" height="934" alt="image" src="https://github.com/user-attachments/assets/8c647c26-e499-409e-9e04-aeed277f74cb" />
+
 
 
 
