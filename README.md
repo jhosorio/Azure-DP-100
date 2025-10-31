@@ -12,4 +12,7 @@ Criando uma Computação
 Criando um Cluster
 <img width="1437" height="827" alt="image" src="https://github.com/user-attachments/assets/8872243c-915f-4075-b4d9-eefadd3c57e5" />
 
+Criando um Data Asset
+<img width="1445" height="866" alt="image" src="https://github.com/user-attachments/assets/ccb6d169-fe4f-45d6-bd83-beba79939c48" />
+
 
