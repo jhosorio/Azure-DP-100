@@ -24,4 +24,6 @@ Criando um Design
 Submetendo o Design
 <img width="1161" height="837" alt="image" src="https://github.com/user-attachments/assets/deaa7ea3-a3d0-4f1b-a4d4-0ad45c4988ff" />
 
+Jobs
+<img width="1652" height="451" alt="image" src="https://github.com/user-attachments/assets/8da2199f-85f0-416c-9f18-2e018951d4ec" />
 
